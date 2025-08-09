@@ -89,4 +89,27 @@ Set up AWS Bedrock, master basic LLM usage, learn prompt engineering, work with 
 
 ---
 
-## 📂 Suggested Folder Structure
+---
+
+## 🛠 Tech Stack for Week 1
+- **Language:** Python 3.10+
+- **SDK:** boto3
+- **AWS Services:** Bedrock, IAM
+- **Libraries:** requests, numpy (for cosine similarity), rich (for CLI output formatting)
+
+---
+
+## 🎯 Outcomes by End of Week 1
+- AWS Bedrock environment set up & tested
+- Proficiency in prompt engineering basics
+- Ability to switch between and benchmark LLM models
+- Understanding of embeddings & cosine similarity
+- Working mini-app for experimenting with prompts and models
+
+---
+
+## 📖 Recommended References
+- [AWS Bedrock Documentation](https://docs.aws.amazon.com/bedrock/)
+- [boto3 Documentation](https://boto3.amazonaws.com/v1/documentation/api/latest/index.html)
+- [Prompt Engineering Guide](https://www.promptingguide.ai/)
+
